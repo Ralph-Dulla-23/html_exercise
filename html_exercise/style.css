@@ -1,0 +1,10 @@
+p{
+    color: blueviolet;
+    font-size: 40px;
+
+}
+p:hover{
+        background-color: brown;
+        transition: 0.5s;
+        transform: scale(1.1);
+}
